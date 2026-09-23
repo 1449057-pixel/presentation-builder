@@ -1,0 +1,8 @@
+{
+  "name": "Конструктор презентаций",
+  "description": "Геймифицированные презентации",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
