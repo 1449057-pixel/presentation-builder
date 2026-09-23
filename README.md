@@ -76,10 +76,3 @@ npm start
 
 ---
 
-### 🔑 Тестовые аккаунты по умолчанию
-- **Администратор (HR-Lead)**:
-  - Email: `hr_lead@detector.ru`
-  - Пароль: `password123`
-- **Ведущий (Тренер)**:
-  - Email: `trainer@detector.ru`
-  - Пароль: `password123`
